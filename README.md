@@ -28,7 +28,7 @@ Contingency Planning: Allocate a contingency fund to address unexpected costs or
 Value Engineering: Continuously evaluate the project to identify opportunities for cost reduction without compromising quality.
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 Agile vs. Waterfall Methodologies
-Agile Methodology
+Agile Methodology;
 
 Iterative and Incremental: Projects are divided into smaller iterations or sprints, with each iteration delivering a working product increment.
 Flexibility: Adaptable to changing requirements and feedback throughout the project lifecycle.
